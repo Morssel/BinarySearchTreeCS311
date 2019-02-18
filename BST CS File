@@ -1,0 +1,39 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp50
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            /*
+             
+             Console.ReadLine.UserInput //In loop:   
+                                            //In after every loop display tree to user with InOrderTraversal()
+                                            First: Ask for First node to init
+                                            Second loop: Ask for New node OR done
+                                            All others: Ask for New node OR Delete OR Done
+             
+             Insertion(UserInput) {
+                TreeSearch(UserInput)  //searches for location to insert in the tree.
+            }
+              
+            Delete(UserInput) {         //Deletes selected node from tree
+            
+            }
+            
+            InOrderTraversal(){         //Prints the tree for the user to review
+
+            }
+            
+             
+             */
+
+
+        }
+    }
+}
